@@ -42,7 +42,7 @@ a {
 }
 
 .navbar__menu {
-  display: none;
+  display: flex;
   list-style: none;
   padding: 0;
 }
@@ -60,7 +60,7 @@ a {
 .navbar__icons {
   list-style: none;
   color: var(--basiccolor); 
-  display: none;
+  display: flex;
   padding-left: 0;
 }
 
